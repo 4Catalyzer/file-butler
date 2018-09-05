@@ -1,3 +1,11 @@
+<a name="1.2.0"></a>
+# [1.2.0](https://github.com/4Catalyzer/file-butler/compare/v1.1.1...v1.2.0) (2018-09-05)
+
+
+### Features
+
+* add node api ([f885fbd](https://github.com/4Catalyzer/file-butler/commit/f885fbd))
+
 <a name="1.1.1"></a>
 ## [1.1.1](https://github.com/4Catalyzer/file-butler/compare/v1.1.0...v1.1.1) (2018-07-29)
 
